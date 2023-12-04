@@ -36,7 +36,7 @@ def generateInput():
 def generateName():
     global generateNameVar
     generateNameVar = tk.Entry(rootWindow)
-    generateNameVar.place(x="90", y="100")
+    generateNameVar.place(x="135", y="100")
 
 def labels():
     global urlLabel, nameLabel, product
