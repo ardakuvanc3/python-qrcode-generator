@@ -1,7 +1,6 @@
 import qrcode as qr
 import tkinter as tk
 
-isGenerate = False
 def createWindow():
     global rootWindow
     rootWindow = tk.Tk()
